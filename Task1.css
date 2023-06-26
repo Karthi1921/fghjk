@@ -1,0 +1,268 @@
+.box{
+    position: relative;
+   
+}
+.box1{
+    position:relative;
+    z-index: 1;
+    border: 1px solid darkorchid;
+    height: 2500px;
+   background-color: darkorchid;
+}
+.box3{
+    position: absolute;
+    z-index: 3;
+    background:white;
+  height: 1700px;  
+  width: 67%;
+  left: 210px;
+  top:20px;
+}
+.box2{
+position:absolute;
+z-index: 2;
+background: rgb(78, 47, 107);
+color: aliceblue;
+height:1750px;  
+width: 70%;
+left: 190px;
+top: 1px;
+}
+.logo #pic{
+    width: 250px;
+}
+/*h1{
+color: deeppink;
+}
+h2{
+    color: gray;
+    margin-top: -25px;
+    margin-left: 5px;
+    font-size: 20px;
+}*/
+.para{
+    color: blue;
+    font-weight: bold;
+    margin-top: -40px;
+    margin-left:750px ;
+    font-style: oblique;
+}
+hr{
+    border-color: red;
+    margin-top: 50px;
+}
+.p{
+ list-style: none;
+ margin-right:-50px ;
+ color: deeppink;
+ margin-bottom:50px;
+ margin-top: -10px;
+}
+.a{
+    margin-right:-300px;
+    margin-left: 120px;
+    margin-top: -67px;
+    margin-bottom: 50px;
+    list-style: none;
+    color: deeppink;
+}
+.b{
+    margin-right: -350px;
+    margin-left: 220px;
+    margin-top: -67px;
+    margin-bottom: 50px;
+    list-style: none;
+    color: deeppink;
+
+}
+.c{
+    margin-right: -350px;
+    margin-left: 290px;
+    margin-top: -67px;
+    margin-bottom: 50px;
+    list-style: none;
+    color: deeppink;  
+}
+.image{
+    float: left;
+    width: 150px;
+    padding: 50px;
+    margin-top: -65px;
+}
+.image #pic{
+    width:239%;
+    height: 150%;
+    margin-left: -50px;
+    }
+.para1{
+        margin-top: 10px;
+        margin-right: 750px;
+    }
+.para2{
+    margin-top: 10px;
+
+}
+.j{
+    color:deeppink;
+    list-style: none;
+    margin-left:-40px;
+}
+.para3{
+    margin-top:-34px ;
+    margin-left:40px ;
+}
+.para4{
+    font-weight:bold;
+    margin-top:-34px ;
+    margin-left:85px;
+    
+}
+hr{
+    border-color:brown;
+    margin-top: -10px;
+}
+.para7{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.m{
+    color:deeppink;
+    list-style: none;
+    margin-bottom: 50px;
+    margin-left:700px;
+    margin-top: -55px;
+}
+h5{
+    color:white;
+    border: 1px solid brown;
+    background-color: brown;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: -25px;
+    margin-left: 0px;
+    font-size: 20px;
+}
+.lines{
+    width:400px;
+    margin-top: -25px;
+}
+.lines1{
+    width: 400px;
+    margin-top: 8px;
+    margin-left: 450px;
+}
+.l{
+    font-weight: bold;
+    color: deeppink;
+    list-style: none;
+    margin-top: -10px;
+}  
+.r{
+    font-weight: bold;
+    color: deeppink;
+    list-style: none;
+    margin-left:450px;
+    margin-top: -18px;
+}
+.para9{
+    margin-top: -35px;
+    margin-left: 450px;
+}
+.lines2{
+    width: 400px;
+}
+.lines3{
+    width: 400px;
+    margin-top: 8px;
+    margin-left: 450px;
+}  
+.s{
+    font-weight: bold;
+    color: deeppink;
+    list-style: none;
+    margin-top: -10px;  
+}
+.k{
+    font-weight: bold;
+    color: deeppink;
+    list-style: none;
+    margin-left:450px;
+    margin-top: -18px
+}
+.para11{
+    margin-top: -35px;
+    margin-left: 450px;  
+}
+.lines4{
+    width: 400px;
+}
+.lines5{
+    width: 400px;
+    margin-top: 8px;
+    margin-left: 450px;  
+}
+.para12{
+    margin-top:20px;
+    color: red;
+}
+.para13{
+    color:white;
+    border: 1px solid rgb(42, 165, 165);
+    background-color: rgb(42, 165, 165);
+    padding-top:10 px;
+    padding-bottom: 10px;
+    margin-top: -5px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    font-size: 30px;  
+    font-family:'Courier New', Courier, monospace; 
+}
+.photo #pic{
+    float: left;
+    width: 280px;
+    margin-top: -10px;
+}
+.para14{
+    font-weight: bold;
+    color: deeppink;
+    font-size: 25px;
+    margin-right:200px;
+}
+.w{
+    list-style: none;
+    color: deeppink;
+    margin-top:-10px ;
+}
+.lines6{
+    margin-top: 50px;
+}
+.para16{
+    color:deeppink;
+}
+.z{
+    color: deeppink;
+    font-weight: bold;
+    margin-top: -35px;
+    list-style: none;
+    margin-left: 145px;
+}
+.para17{
+    margin-bottom: -50px;
+    margin-top: 70px;
+    color: white;
+}
+.lines7{
+    margin-top: 70px;
+    color:white;
+}
+.para18{
+    color: aliceblue;
+}
+.para19{
+    color: aliceblue;
+}
+
+
+   
+   
+
